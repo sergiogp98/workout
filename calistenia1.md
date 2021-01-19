@@ -1,15 +1,38 @@
-# Calistenia
+# Calistenia 1
+
 Página web: [enalce](https://www.calistenia.net/rutinas-principiantes/)
 
 ## Calentamiento
-1. [Movilidad articular](https://www.youtube.com/watch?v=0UKFJHnYEb8)
-2. [Aumento de bombeo y preparación muscular](https://www.youtube.com/watch?v=suEih2E5Gjs)
+
+1. [Movilidad articular](https://www.youtube.com/watch?v=0UKFJHnYEb8) (15"):
+    - Movimiento circular de brazos hacia delante y hacia detrás
+    - Apertura y cierre de brazos (abrazar a alguien)
+    - Movimiento circular del tronco
+    - Hacer círculos en el aire con los brazos extendidos
+    - Tocar las punta del pie con la mano del brazo contrario
+    - Movimiento circular de muñecas (en ambos sentidos)
+    - Movimiento circular de antebrazo (en ambos sentidos)
+    - Movimiento circular de cadera (en ambos sentidos)
+    - Movimiento circular de rodillas (en ambos sentidos)
+    - Balancearse sobre los tobillos hacia delantes y hacia atrás
+    - Ponerse de puntillas
+     
+2. [Aumento de bombeo y preparación muscular](https://www.youtube.com/watch?v=suEih2E5Gjs) (10")
+    - Zancada sobre el sitio con ambas piernas
+    - Salto con apertura de brazos y piernas a la vez
+    - Flexiones sobre una barra elevada
+    - "Escalador" (correr en el sitio con las manos apoyadas)
+    - Flexiones inversas inclinadas
+    - Salto con rodillas a la altura del pecho
+    - Semicírculo con los brazos extendidos y en 90 grados
+    - Skipping
+    - Sentadillas
 
 ## Lunes
 
 | Ejercicio | Progresión | Tiempo | Descanso | Video |
 |---|---|---|---|---|
-| ![](img/dominadas.jpg) | 6x4-5 / 5x6-7 / 4x8-10 / 3x10-12 | 3-0-X-1 | 1-1'5 min  | [vídeo](https://www.youtube.com/watch?v=qH3UlYIKZlI)  |
+| Dominadas multiplano | 6x4-5 / 5x6-7 / 4x8-10 / 3x10-12 | 3-0-X-1 | 1-1'5 min  | [vídeo](https://www.youtube.com/watch?v=qH3UlYIKZlI)  |
 | Flexiones cerradas | 3x3-5 / 4x3-5 / 5x3-5 / 6x3-5| 3-0-X-1 | 1-1'5 min | [vídeo](https://www.youtube.com/watch?v=Fx1Tob4WvtM) |
 | Salto vertical | 4x8-10 | Potente (máxima altura) | 2-3 min | [vídeo](https://www.youtube.com/watch?v=jj3NlAigrZ8)  |
 | Encogemiento en barra + Superman | 5x3-5 + 20" / 4x-5-7 + 30" / 3x8-10 + 40" / 1xMAX + MAX | Controlado/Isométrico | 1-1'5 min | [vídeo](https://www.youtube.com/watch?v=hrEXL00wewI) |
