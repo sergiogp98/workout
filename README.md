@@ -1,4 +1,4 @@
-[Workout]((https://sergiogp98.github.io/workout/))
+[Workout](https://sergiogp98.github.io/workout/)
 ========
 
 Welcome to my workout space! This is a "free code" space where I upload my
