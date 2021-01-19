@@ -9,7 +9,7 @@ Página web: [enalce](https://www.calistenia.net/rutinas-principiantes/)
 
 | Ejercicio | Progresión | Tiempo | Descanso | Video |
 |---|---|---|---|---|
-| ![Dominadas multiplano](img/dominadas.jpg) | 6x4-5 / 5x6-7 / 4x8-10 / 3x10-12 | 3-0-X-1 | 1-1'5 min  | [vídeo](https://www.youtube.com/watch?v=qH3UlYIKZlI)  |
+| ![](img/dominadas.jpg) | 6x4-5 / 5x6-7 / 4x8-10 / 3x10-12 | 3-0-X-1 | 1-1'5 min  | [vídeo](https://www.youtube.com/watch?v=qH3UlYIKZlI)  |
 | Flexiones cerradas | 3x3-5 / 4x3-5 / 5x3-5 / 6x3-5| 3-0-X-1 | 1-1'5 min | [vídeo](https://www.youtube.com/watch?v=Fx1Tob4WvtM) |
 | Salto vertical | 4x8-10 | Potente (máxima altura) | 2-3 min | [vídeo](https://www.youtube.com/watch?v=jj3NlAigrZ8)  |
 | Encogemiento en barra + Superman | 5x3-5 + 20" / 4x-5-7 + 30" / 3x8-10 + 40" / 1xMAX + MAX | Controlado/Isométrico | 1-1'5 min | [vídeo](https://www.youtube.com/watch?v=hrEXL00wewI) |
